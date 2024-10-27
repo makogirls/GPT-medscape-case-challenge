@@ -19,6 +19,8 @@
 - **question+options.csv**: CSV file containing questions and answer options.
 - **text.txt**: Text file describing the background, examination, and workup details of a clinical case scenario.
 
+![image](https://github.com/user-attachments/assets/ee10c129-e454-47b6-8146-e5029ec16f39)
+
 ---
 
 ## Code Notebooks
@@ -29,3 +31,7 @@
 - **o1-preview.ipynb**: Notebook for evaluating o1-preview's performance on clinical case challenges (Text-only inputs).
 
 ---
+
+## License
+A Comparative Evaluation of GPT-4 Omni and o1-preview with Human Experts in Solving Real-World Clinical Case Challenges
+Jaewon Jung, Hyunjae Kim, SungA Bae
