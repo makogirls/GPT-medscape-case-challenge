@@ -1,6 +1,8 @@
 
 # A Comparative Evaluation of GPT-4 Omni and o1-preview with Human Experts in Solving Real-World Clinical Case Challenges
 
+This repository contains the code and sample datasets used in our paper titled "A Comparative Evaluation of GPT-4 Omni and o1-preview with Human Experts in Solving Real-World Clinical Case Challenges", available at _______________________________.
+
 ## Abstract
 
 **Background:** Although GPT-4 has demonstrated strong performance on standardized medical exams, its accuracy and reliability in real-world clinical scenarios remain limited. The newly released multimodal GPT-4 Omni model that integrates text and image inputs, along with the o1-preview model demonstrating advanced reasoning and safety features, may address these limitations. Therefore, this study aimed to compare the performance of GPT-4 Omni and o1-preview with that of human experts in solving clinical case challenges. 
