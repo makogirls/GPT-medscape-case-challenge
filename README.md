@@ -21,8 +21,8 @@
 ## Medscape clinical case challenge quiz sample
 
 - **question+options.csv**: CSV file containing questions and answer options.
-- **text.txt**: Text file describing the background, examination, and workup details of a clinical case scenario.
-- **image.jpg**: Image associated with a clinical vignette.
+- **text.txt**: Text file describing the background, examination, and workup details of a patient.
+- **image.jpg**: Image associated with the patient.
 
 ---
 
