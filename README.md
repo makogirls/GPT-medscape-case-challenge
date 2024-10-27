@@ -36,5 +36,5 @@
 ---
 
 ## License
-- A Comparative Evaluation of GPT-4 Omni and o1-preview with Human Experts in Solving Real-World Clinical Case Challenges
-- Jaewon Jung, Hyunjae Kim, SungA Bae
+* A Comparative Evaluation of GPT-4 Omni and o1-preview with Human Experts in Solving Real-World Clinical Case Challenges
+* Jaewon Jung, Hyunjae Kim, SungA Bae
