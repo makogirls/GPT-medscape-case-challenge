@@ -19,7 +19,7 @@
 - **question+options.csv**: CSV file containing questions and answer options.
 - **text.txt**: Text file describing the background, examination, and workup details of a clinical case scenario.
 
-<img src="https://github.com/user-attachments/assets/066591b6-70f0-4097-b30a-b22b1aa3c0b0" alt="Figure 1. Study Flow" width="1000">
+[<img src="https://github.com/user-attachments/assets/066591b6-70f0-4097-b30a-b22b1aa3c0b0" alt="Figure 1. Study Flow" width="800">](https://github.com/user-attachments/assets/066591b6-70f0-4097-b30a-b22b1aa3c0b0)
 
 ---
 
