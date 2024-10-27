@@ -1,7 +1,7 @@
 
 # A Comparative Evaluation of GPT-4 Omni and o1-preview with Human Experts in Solving Real-World Clinical Case Challenges
 
-This repository contains the code and sample datasets used in our paper titled "A Comparative Evaluation of GPT-4 Omni and o1-preview with Human Experts in Solving Real-World Clinical Case Challenges", available at [https://_______________________](https://_______________________).
+This repository contains the code and sample datasets used in our paper titled "A Comparative Evaluation of GPT-4 Omni and o1-preview with Human Experts in Solving Real-World Clinical Case Challenges", available at [https://**********](https://**********).
 
 ## Abstract
 
