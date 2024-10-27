@@ -22,7 +22,7 @@
 
 - **question+options.csv**: CSV file containing questions and answer options.
 - **text.txt**: Text file describing the background, examination, and workup details of a patient.
-- **image.jpg**: Image findings of the patient.
+- **image.jpg**: Image finding of the patient.
 
 ---
 
