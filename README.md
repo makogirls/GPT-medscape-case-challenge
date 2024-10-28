@@ -15,8 +15,8 @@ This repository contains the code and sample datasets used in our paper titled "
 
 **Findings:** Out of 1,426 questions, both GPT-4 Omni and o1-preview outperformed human experts (88.4% vs. 85.0%, p=0.001; 93.7% vs. 85.0%, p<0.001). For 917 questions with images, GPT-4 Omni's accuracy significantly increased when images were added (88.3% vs. 86.7%, p=0.019). GPT-4 Omni specifically showed a significant advantage in disease diagnosis compared to human experts (84.9% vs. 78.1%, p<0.001). The o1-preview model surpassed human experts across all categories (diagnosis, 91.7% vs. 78.1%, p<0.001; disease characteristics, 96.0% vs. 89.8%, p<0.001, examination, 93.7% vs. 85.3%, p=0.005; treatment, 94.1% vs. 90.5%, p=0.028).
 
-[<img src="https://github.com/user-attachments/assets/976e80e3-b4cd-4f0a-afa5-d7f57a66087f" alt="Figure 1. Study Flow" width="600">](https://github.com/user-attachments/assets/976e80e3-b4cd-4f0a-afa5-d7f57a66087f)
-[<img src="https://github.com/user-attachments/assets/8c2a00e8-c683-4051-8937-40c5c90a0490" alt="Figure 1. Study Flow" width="600">](https://github.com/user-attachments/assets/8c2a00e8-c683-4051-8937-40c5c90a0490)
+[<img src="https://github.com/user-attachments/assets/d73fe7f3-4b00-4849-b11e-6696c9bb4ddc" alt="Figure 1. Study Flow" width="700">](https://github.com/user-attachments/assets/d73fe7f3-4b00-4849-b11e-6696c9bb4ddc)
+[<img src="https://github.com/user-attachments/assets/0bbf1b0d-cc45-453c-93b0-87ef2aa3511f" alt="Figure 1. Study Flow" width="700">](https://github.com/user-attachments/assets/0bbf1b0d-cc45-453c-93b0-87ef2aa3511f)
 
 **Interpretations:** GPT-4 Omni model and o1-preview model outperformed human experts in clinical case challenges, particularly excelling in disease diagnosis. These findings suggest that GPT-4 Omni and o1-preview could serve as valuable tools to assist healthcare professionals in clinical settings, supporting various aspects of patient care and decision-making. 
 
