@@ -20,6 +20,7 @@ This repository contains the code and sample datasets used in our paper titled "
 
 **Interpretations:** GPT-4 Omni model and o1-preview model outperformed human experts in clinical case challenges, particularly excelling in disease diagnosis. These findings suggest that GPT-4 Omni and o1-preview could serve as valuable tools to assist healthcare professionals in clinical settings, supporting various aspects of patient care and decision-making. 
 
+**Refernece:** Case Challenges - Index. [https://reference.medscape.com/features/casechallenges](https://reference.medscape.com/features/casechallenges)
 ---
 
 ## Medscape clinical case challenge quiz sample
