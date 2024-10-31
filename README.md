@@ -16,7 +16,7 @@ This repository contains the code and sample datasets used in our paper titled "
 **Findings:** In a study involving 1,426 questions, human experts had an accuracy of 85.0%; the o1-preview model and GPT-4 Omni significantly outperformed them, achieving accuracies of 93.7% (p < 0.001) and 88.4% (p = 0.001), respectively. The o1-preview model demonstrated the highest accuracy across all question categories, consistently outperforming human experts. GPT-4 Omni's accuracy improved from 86.7% with text input alone to 88.3% when images were included (p = 0.019). Over five trials, the o1-preview model provided consistently correct answers in 89.6% of cases, and GPT-4 Omni was consistently correct in 86.2% of cases.
 
 [<img src="https://github.com/user-attachments/assets/d73fe7f3-4b00-4849-b11e-6696c9bb4ddc" alt="Figure 1. Study Flow" width="700">](https://github.com/user-attachments/assets/d73fe7f3-4b00-4849-b11e-6696c9bb4ddc)
-[<img src="https://github.com/user-attachments/assets/88abaed8-5a85-448f-af28-f53719e06f06" alt="Figure 1. Study Flow" width="700">](https://github.com/user-attachments/assets/88abaed8-5a85-448f-af28-f53719e06f06)
+[<img src="https://github.com/user-attachments/assets/e9087757-a919-46ae-b949-2723f0eb9f8f" alt="Figure 1. Study Flow" width="700">](https://github.com/user-attachments/assets/e9087757-a919-46ae-b949-2723f0eb9f8f)
 
 **Interpretations:** GPT-4 Omni model and o1-preview model outperformed human experts in clinical case challenges, particularly excelling in disease diagnosis. These findings suggest that GPT-4 Omni and o1-preview could serve as valuable tools to assist healthcare professionals in clinical settings, supporting various aspects of patient care and decision-making.
 
