@@ -43,4 +43,4 @@ This repository contains the code and sample datasets used in our paper titled "
 
 ## License
 A Comparative Evaluation of GPT-4 Omni and o1-preview with Human Experts in Solving Real-World Clinical Case Challenges  
-Jaewon Jung, Hyunjae Kim, SungA Bae
+Jaewon Jung, Hyunjae Kim, SungA Bae, Jin Young Park
