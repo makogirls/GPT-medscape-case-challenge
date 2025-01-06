@@ -45,5 +45,5 @@ This repository contains the code and sample datasets used in our paper titled "
 ---
 
 ## License
-Comparative Analysis of Multimodal Large Language Models GPT-4 Omni and o1 Versus Clinicians in Real-World Clinical Scenarios
+Comparative Analysis of Multimodal Large Language Models GPT-4 Omni and o1 Versus Clinicians in Real-World Clinical Scenarios  
 Jaewon Jung, Hyunjae Kim, SungA Bae, Jin Young Park
