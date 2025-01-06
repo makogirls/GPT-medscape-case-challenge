@@ -40,10 +40,10 @@ This repository contains the code and sample datasets used in our paper titled "
 - **GPT-3.5-Turbo.ipynb**: Notebook for evaluating GPT-3.5 Turbo's performance on clinical case challenges (Text-only inputs).
 - **GPT-4-Turbo.ipynb**: Notebook for evaluating GPT-4 Turbo's performance on clinical case challenges (Text-only inputs).
 - **GPT-4-Omni.ipynb**: Notebook for evaluating multimodal GPT-4 Omni's performance on clinical case challenges (Both text and image inputs).
-- **o1.ipynb**: Notebook for evaluating o1-preview's performance on clinical case challenges (Text-only inputs).
+- **o1.ipynb**: Notebook for evaluating o1's performance on clinical case challenges (Both text and image inputs).
 
 ---
 
 ## License
-A Comparative Evaluation of GPT-4 Omni and o1-preview with Human Experts in Solving Real-World Clinical Case Challenges  
+Comparative Analysis of Multimodal Large Language Models GPT-4 Omni and o1 Versus Clinicians in Real-World Clinical Scenarios
 Jaewon Jung, Hyunjae Kim, SungA Bae, Jin Young Park
