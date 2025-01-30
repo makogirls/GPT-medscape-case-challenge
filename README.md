@@ -7,21 +7,24 @@ This repository contains the code and sample datasets used in our paper titled "
 
 ## Abstract
 
-**Background:** GPT-4 has demonstrated strong performance in standardized medical exams but faces limitations in real-world clinical settings. The newly released multimodal GPT-4 Omni model, which integrates text and image inputs to enhance diagnostic capabilities, and the multimodal o1 model, which incorporates advanced reasoning, improved contextual understanding, and enhanced safety features, may address these limitations together.
+**Background:** Generative Pre-trained Transformer 4 (GPT-4) has demonstrated strong performance in standardized medical examinations but has limitations in real-world clinical settings. The newly released multimodal GPT-4 Omni model, which integrates text and image inputs to enhance diagnostic capabilities, and the multimodal o1 model, which incorporates advanced reasoning, may address these limitations.
 
-**Objective:** Comparative Analysis of Multimodal Large Language Models GPT-4 Omni and o1 Versus Clinicians in Real-World Clinical Scenarios.
+**Objective:** This study aimed to compare the performance of GPT-4 Omni and o1 against clinicians in real-world clinical case challenges.
 
-**Methods:** We used Medscape case challenge questions from May 2011 to June 2024 (n = 1,426). Each case included text and images regarding patient history, physical examination findings, diagnostic test results, and imaging studies. Clinicians were required to choose one answer from multiple options, with the most frequent response defined as the clinicians’ decision. Data-based decisions were made using GPT models (3.5 Turbo, 4 Turbo, 4 Omni, and o1) to interpret text and images, followed by a process to provide a formatted answer. We compared the performances of clinicians and GPT models using the McNemar test.
+**Methods:** This retrospective, cross-sectional study used Medscape case challenge questions from May 2011 to June 2024 (n = 1,426). Each case included text and images of patient history, physical examination findings, diagnostic test results, and imaging studies. Clinicians were required to choose one answer from among multiple options, with the most frequent response defined as the clinician’s decision. Data-based decisions were made using GPT models (3.5 Turbo, 4 Turbo, 4 Omni, and o1) to interpret the text and images, followed by a process to provide a formatted answer. We compared the performances of the clinicians and GPT models using the McNemar test.
 
-<img src="https://github.com/user-attachments/assets/5852b1e8-efab-4aaf-9a44-c988d677feb0" alt="Sample Image" width="600" />
+<img src="https://github.com/user-attachments/assets/818951d0-c205-4e0b-8f37-c69eab463af0" alt="Sample Image" width="600" />
 
-**Results:** Of the 1,426 questions, clinicians achieved an overall accuracy of 85.0%, while GPT-4 Omni and o1 demonstrated higher accuracies of 88.4% and 94.3% (p = 0.001 and p < 0.001), respectively. In the multimodal performance analysis, which included cases involving images (n = 917), GPT-4 Omni achieved an accuracy of 88.3% and o1 achieved 93.9%, both significantly outperforming clinicians (p < 0.001 and p < 0.001). o1 showed the highest accuracy across all question categories, achieving 92.6% in diagnosis (p < 0.001), 97.0% in disease characteristics (p < 0.001), 92.6% in examination (p = 0.008), and 94.8% in treatment (p = 0.016), consistently outperforming clinicians. By medical specialty, o1 achieved 93.6% accuracy in internal medicine (p < 0.001), 96.6% in major surgery (p = 0.011), 97.3% in psychiatry (p = 0.011), and 95.4% in minor specialties (p < 0.001), significantly surpassing clinicians. Across five trials, GPT-4 Omni and o1 consistently provided correct answers in 86.2% and 90.7% of cases, respectively.
 
-<img src="https://github.com/user-attachments/assets/023c5aab-27c1-430c-91bb-f5b5a6b0b80c" alt="Sample Image" width="750" />
+**Results:** Of the 1,426 questions, clinicians achieved an overall accuracy of 85.0%, whereas GPT-4 Omni and o1 demonstrated higher accuracies of 88.4% and 94.3% (mean difference 3.4%; P = .001 and mean difference 9.3%; P < .001), respectively. In the multimodal performance analysis, which included cases involving images (n = 917), GPT-4 Omni achieved an accuracy of 88.3%, and o1 achieved 93.9%, both significantly outperforming clinicians (mean difference 4.2%; P < .001 and mean difference 9.8%; P < .001). o1 showed the highest accuracy across all question categories, achieving 92.6% in diagnosis (mean difference 14.5%; P < .001), 97.0% in disease characteristics (mean difference 7.2%; P < .001), 92.6% in examination (mean difference 7.3%; P = .008), and 94.8% in treatment (mean difference 4.3%; P = .016), consistently outperforming clinicians. In terms of medical specialty, o1 achieved 93.6% accuracy in internal medicine (mean difference 10.3%; P < .001), 96.6% in major surgery (mean difference 9.2%; P = .011), 97.3% in psychiatry (mean difference 10.6%; P = .011), and 95.4% in minor specialties (mean difference 10.0%; P < .001), significantly surpassing clinicians.
+
+<img src="https://github.com/user-attachments/assets/d7bb6707-694b-410e-ba02-1ecae01eaf4f" alt="Sample Image" width="750" />
 <img src="https://github.com/user-attachments/assets/1885f46e-92bd-4289-b501-daf9cc4d2b0e" alt="Sample Image" width="750" />
 <img src="https://github.com/user-attachments/assets/ad0e1e0d-a47a-4889-8ba1-b07d2c8e40e4" alt="Sample Image" width="750" />
 
-**Conclusions:** GPT-4 Omni and o1 outperformed clinicians in addressing clinical case challenges, particularly in disease diagnosis. GPT-4 Omni and o1 could serve as valuable tools to assist healthcare professionals in clinical settings, supporting various aspects of patient care and decision-making.
+**Conclusions:** The GPT-4 Omni and o1 outperformed clinicians in addressing clinical challenges, particularly in disease diagnosis. The GPT-4 Omni and o1 could serve as valuable tools to assist healthcare professionals in clinical settings.
+
+**Keywords:** Diagnostic performance; Large language model; Multimodal model; Reasoning model; ChatGPT; GPT-4 Omni; o1; Artificial intelligence
 
 **Refernece:** [https://reference.medscape.com/features/casechallenges](https://reference.medscape.com/features/casechallenges)
 
