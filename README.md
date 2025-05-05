@@ -1,5 +1,5 @@
 
-# Comparative Analysis of Multimodal Large Language Models GPT-4 Omni and o1 Versus Clinicians in Real-World Clinical Scenarios
+# Comparative Analysis of Multimodal Large Language Models GPT-4o and o1 Versus Clinicians in clinical case challenge questions: Retrospective Cross-Sectional Study
 
 This repository contains the code and sample datasets used in our paper titled "Comparative Analysis of Multimodal Large Language Models GPT-4 Omni and o1 Versus Clinicians in Real-World Clinical Scenarios".
 
@@ -48,5 +48,5 @@ This repository contains the code and sample datasets used in our paper titled "
 ---
 
 ## License
-Comparative Analysis of Multimodal Large Language Models GPT-4 Omni and o1 Versus Clinicians in Real-World Clinical Scenarios  
+Comparative Analysis of Multimodal Large Language Models GPT-4o and o1 Versus Clinicians in clinical case challenge questions: Retrospective Cross-Sectional Study
 Jaewon Jung, Hyunjae Kim, SungA Bae, Jin Young Park
