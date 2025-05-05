@@ -13,6 +13,7 @@ This repository contains the code and sample datasets used in our paper titled "
 
 **Methods:** This retrospective, cross-sectional study used Medscape case challenge questions from May 2011 to June 2024 (n = 1,426). Each case included text and images of patient history, physical examination findings, diagnostic test results, and imaging studies. Clinicians were required to choose one answer from among multiple options, with the most frequent response defined as the clinician’s decision. Data-based decisions were made using GPT models (3.5 Turbo, 4 Turbo, 4 Omni, and o1) to interpret the text and images, followed by a process to provide a formatted answer. We compared the performances of the clinicians and GPT models using Mixed-effects logistic regression analysis.
 
+**Figure 1. Study flowchart**
 <img src="https://github.com/user-attachments/assets/818951d0-c205-4e0b-8f37-c69eab463af0" alt="Sample Image" width="600" />
 
 
