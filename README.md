@@ -22,10 +22,9 @@ This repository contains the code and sample datasets used in our paper titled "
 
 **Figure 2. Overall performance of GPT models**
 
-<img src="https://github.com/user-attachments/assets/d7bb6707-694b-410e-ba02-1ecae01eaf4f" alt="Sample Image" width="750" />
-<img src="https://github.com/user-attachments/assets/96a38078-7281-4a46-b07a-1411bdfc616b" alt="Sample Image" width="750" />
-<img src="https://github.com/user-attachments/assets/f58e6efe-5813-4609-8f4c-f108c21fa387" alt="Sample Image" width="750" />
-
+<img src="https://github.com/user-attachments/assets/79784f8a-e359-4be1-8b7a-75ff0905f592" alt="Sample Image" width="750" />
+<img src="https://github.com/user-attachments/assets/c3fe5be6-f345-45c4-aec4-ec61549ff938" alt="Sample Image" width="750" />
+<img src="https://github.com/user-attachments/assets/57d750f7-b519-4bab-813f-b372f29e1eea" alt="Sample Image" width="750" />
 
 **Conclusions:** The GPT-4o and o1 outperformed clinicians in addressing clinical challenges, particularly in disease diagnosis. The GPT-4o and o1 could serve as valuable tools to assist healthcare professionals in clinical settings.
 
