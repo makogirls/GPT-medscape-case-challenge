@@ -19,9 +19,11 @@ This repository contains the code and sample datasets used in our paper titled "
 
 **Results:** Of the 1,426 questions, clinicians achieved an overall accuracy of 85.0%, whereas GPT-4o and o1 demonstrated higher accuracies of 88.4% and 94.3% (mean difference 3.4%; P = .005 and mean difference 9.3%; P < .001), respectively. In the multimodal performance analysis, which included cases involving images (n = 917), GPT-4o achieved an accuracy of 88.3%, and o1 achieved 93.9%, both significantly outperforming clinicians (mean difference 4.2%; P = .005 and mean difference 9.8%; P < .001). o1 showed the highest accuracy across all question categories, achieving 92.6% in diagnosis (mean difference 14.5%; P < .001), 97.0% in disease characteristics (mean difference 7.2%; P < .001), 92.6% in examination (mean difference 7.3%; P = .002), and 94.8% in treatment (mean difference 4.3%; P = .005), consistently outperforming clinicians. In terms of medical specialty, o1 achieved 93.6% accuracy in internal medicine (mean difference 10.3%; P < .001), 96.6% in major surgery (mean difference 9.2%; P = .030), 97.3% in psychiatry (mean difference 10.6%; P = .030), and 95.4% in minor specialties (mean difference 10.0%; P < .001), significantly surpassing clinicians. Across five trials, GPT-4o and o1 provided the correct answer 5/5 times in 86.2% and 90.7% of the cases, respectively.
 
+**Figure 2. Overall performance of GPT models**
 <img src="https://github.com/user-attachments/assets/d7bb6707-694b-410e-ba02-1ecae01eaf4f" alt="Sample Image" width="750" />
-<img src="https://github.com/user-attachments/assets/1885f46e-92bd-4289-b501-daf9cc4d2b0e" alt="Sample Image" width="750" />
-<img src="https://github.com/user-attachments/assets/ad0e1e0d-a47a-4889-8ba1-b07d2c8e40e4" alt="Sample Image" width="750" />
+<img src="https://github.com/user-attachments/assets/96a38078-7281-4a46-b07a-1411bdfc616b" alt="Sample Image" width="750" />
+<img src="https://github.com/user-attachments/assets/f58e6efe-5813-4609-8f4c-f108c21fa387" alt="Sample Image" width="750" />
+
 
 **Conclusions:** The GPT-4o and o1 outperformed clinicians in addressing clinical challenges, particularly in disease diagnosis. The GPT-4o and o1 could serve as valuable tools to assist healthcare professionals in clinical settings.
 
