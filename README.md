@@ -26,7 +26,7 @@ This repository contains the code and sample datasets used in our paper titled "
 <img src="https://github.com/user-attachments/assets/c3fe5be6-f345-45c4-aec4-ec61549ff938" alt="Sample Image" width="750" />
 <img src="https://github.com/user-attachments/assets/57d750f7-b519-4bab-813f-b372f29e1eea" alt="Sample Image" width="750" />
 
-**Conclusions:** The GPT-4o and o1 outperformed clinicians in addressing clinical challenges, particularly in disease diagnosis. The GPT-4o and o1 could serve as valuable tools to assist healthcare professionals in clinical settings.
+**Conclusions:** The GPT-4o and o1 models achieved higher accuracy than clinicians in clinical case challenge questions, particularly in disease diagnosis. The GPT-4o and o1 could serve as valuable tools to assist healthcare professionals in clinical settings.
 
 **Keywords:** multimodal large language model; GPT-4 Omni; o1; clinical decision-making; diagnostic accuracy; artificial intelligence
 
