@@ -52,6 +52,4 @@ This repository contains the code and sample datasets used in our paper titled "
 ---
 
 ## License
-Comparative Analysis of Multimodal Large Language Models GPT-4o and o1 vs Clinicians in Clinical Case Challenge Questions
-
-Jaewon Jung, Hyunjae Kim, SungA Bae, Jin Young Park
+Jung, J., Kim, H., Bae, S., & Park, J. Y. (2025, June 23). Comparative analysis of multimodal large language models GPT‑4o and o1 vs clinicians in clinical case challenge questions (Version 1). medRxiv. https://doi.org/10.1101/2025.06.22.25330068
