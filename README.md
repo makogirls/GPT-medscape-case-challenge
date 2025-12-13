@@ -15,8 +15,7 @@ This repository contains the code and sample datasets used in our paper titled "
 
 **Figure 1. Study flowchart**
 
-<img src="https://github.com/user-attachments/assets/818951d0-c205-4e0b-8f37-c69eab463af0" alt="Sample Image" width="750" />
-
+<img src="https://github.com/user-attachments/assets/15c01d04-ace9-4caa-9ba4-9a511d7d3dfd" alt="Sample Image" width="750" />
 
 **Results:** Medscape respondents (majority vote) achieved an overall accuracy of 85.0%, whereas GPT-4o and o1 demonstrated higher accuracies of 88.4% (P = .005) and 94.3% (P < .001), respectively. In multimodal analysis involving images (n = 917), GPT-4o achieved an accuracy of 88.3% (P = .005), while o1 achieved 93.9% (P < .001), both significantly outperforming Medscape respondents. o1 demonstrated the highest accuracy across all question categories, achieving 92.6% (P < .001) in diagnosis, 97.0% (P < .001) in disease characteristics, 92.6% (P = .002) in examination, and 94.8% (P = .005) in treatment. In terms of medical specialty, o1 achieved 93.6% (P < .001) accuracy in internal medicine, 96.6% (P = .030) in major surgery, 97.3% (P = .030) in psychiatry, and 95.4% (P < .001) in minor specialties, significantly surpassing Medscape respondents. Across five trials, GPT-4o and o1 provided the correct answer 5/5 times in 86.2% and 90.7% of the cases, respectively.
 
