@@ -22,8 +22,8 @@ This repository contains the code and sample datasets used in our paper titled "
 **Figure 2. Overall performance of GPT models**
 
 <img src="https://github.com/user-attachments/assets/c52522e1-2297-4e60-9b2a-5cf8dbd1b5b5" alt="Sample Image" width="750" />
-<img src="https://github.com/user-attachments/assets/c3fe5be6-f345-45c4-aec4-ec61549ff938" alt="Sample Image" width="750" />
-<img src="https://github.com/user-attachments/assets/57d750f7-b519-4bab-813f-b372f29e1eea" alt="Sample Image" width="750" />
+<img src="https://github.com/user-attachments/assets/aa26140f-2843-42ea-b7ab-8fb2ae571922" alt="Sample Image" width="750" />
+<img src="https://github.com/user-attachments/assets/7e86f0ac-3690-4e17-9222-81f9f1bc9448" alt="Sample Image" width="750" />
 
 **Conclusions:** The GPT-4o and o1 models achieved higher accuracy than Medscape respondents (majority vote) in clinical case evaluations, particularly in disease diagnosis. GPT-4o and o1 could serve as valuable tools to assist healthcare professionals in structured scenarios.
 
