@@ -55,6 +55,6 @@ This project is based on the following peer-reviewed article:
 
 Jung J, Kim H, Bae S, Park JY. Comparative analysis of multimodal large language models GPT-4o and o1 versus clinicians in clinical case challenge questions: Retrospective cross-sectional study. Medicine. 2026;XX:XX(e47071).
 
-© 2026 The Author(s). Published by Wolters Kluwer Health, Inc.
+Copyright © 2026 The Author(s). Published by Wolters Kluwer Health, Inc.
 This is an open access article distributed under the Creative Commons Attribution License 4.0 (CCBY),
 which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
